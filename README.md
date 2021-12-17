@@ -1,5 +1,5 @@
 # CodeberryLight
 
-This project only includes mobile first, no bigger displays ;)
+This project only includes mobile first, (no bigger displays ;)
 
-You can check the project here: https://irischinos.github.io/CodeberryLight/
+You can check the project <a href="https://irischinos.github.io/CodeberryLight/">here</a>.
